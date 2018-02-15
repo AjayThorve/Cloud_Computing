@@ -2,7 +2,7 @@
 
 ### AWS(amazon web services) mini programs and projects
 
-<i>Author: Ajay Thorve
+<i>Author: Ajay Thorve</i>
 
 As part of my graduate level cloud computing course at NYU, I had to do some cool projects, some of them are:
 
